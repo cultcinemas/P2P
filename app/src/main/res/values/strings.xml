@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth P2P Chat</string>
+    <string name="connect">Connect</string>
+    <string name="send">Send</string>
+    <string name="choose_file">Choose File</string>
+    <string name="devices">Devices</string>
+</resources>
